@@ -89,7 +89,7 @@ class MainView : View("cirrus-ui") {
                             }
                             field {
                                 buttonbar {
-                                    button("exit", type = LEFT) {
+                                    button("exit123", type = LEFT) {
                                         action {
                                             (scene.window as Stage).close()
                                         }
